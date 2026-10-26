@@ -1,16 +1,9 @@
-## Hi there 👋
+hiya!👋 I'm Cristina. 
+Currently in college, studying Information Technology - BTEC National Diploma.  
 
-<!--
-**ct9mus/ct9mus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i want to learn python because...
 
-Here are some ideas to get you started:
+Right now I'm focused on completing the CS50 Harvard python course.
 
-- 🔭 I’m currently working on learning python 
-- 🌱 I’m currently learning CS50 Harvard python 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
--->
+my email --> c.t9muss@gmail.com
+my linkedIn --> (i dont remember) :(
