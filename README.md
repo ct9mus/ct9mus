@@ -1,9 +1,9 @@
-hiya!👋 I'm Cristina. 
+## hiya!👋 I'm Cristina. 
 Currently in college, studying Information Technology - BTEC National Diploma.  
 
 i want to learn python because...
 
 Right now I'm focused on completing the CS50 Harvard python course.
 
-<ins>my email<ins/> --> c.t9muss@gmail.com
-<u>my linkedIn<u/> --> (i dont remember) :(
+my email --> c.t9muss@gmail.com
+my linkedIn --> (i dont remember) :(
